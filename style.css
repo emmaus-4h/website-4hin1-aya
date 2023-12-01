@@ -120,6 +120,17 @@ nav li a.active {
 
 /* .item {} */ /* hier doen we nog niks mee, dat mag je zelf toevoegen */
 
+.recept-plaatje {
+  margin:0px;
+  float:left;
+}
+
+.ingredienten_lijst{
+  float:right;
+  width:450px;
+}
+
+
 .item-plaatje {
   float: left;
   width: 250px;
