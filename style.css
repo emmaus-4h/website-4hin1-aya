@@ -147,3 +147,14 @@ nav li a.active {
 /* Indeling en opmaak voor subpagina */
 
 /* verzin deze zelf... */
+
+h3 {
+  background-color: pink;
+  color: #e46c6c;
+  border:solid 2px #e46c6c;
+  font-family: monospace;
+}
+.recept_container {
+  padding:10px;
+  background-color:#feecef;
+}
