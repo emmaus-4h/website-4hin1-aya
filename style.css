@@ -23,8 +23,8 @@
 }
 
 html, body {                      /* geldt voor html en body */
-  background-color: #fffafb;    /* achtergrondkleur lichtgrijs */
-  color: #000000;               /* tekstkleur donkergrijs */
+  background-color: #fffafc;    /* achtergrondkleur lichtgrijs */
+  color: #cd7e8c;               /* tekstkleur donkergrijs */
 }  
 
 div {                             /* geldt voor div */
