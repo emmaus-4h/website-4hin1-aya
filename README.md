@@ -18,3 +18,11 @@ https://validator.w3.org/
 
 ## Credits
 - ...
+
+## Tips
+eyecatchers animaties
+
+https://informatica.emmauscollege.nl/theorie/webdesign/
+vwo video 5
+
+https://www.w3schools.com/css/css3_transitions.asp
