@@ -127,7 +127,7 @@ nav li a.active {
 
 .ingredienten_lijst{
   float:right;
-  width:450px;
+  width:425px;
 }
 
 
@@ -157,6 +157,16 @@ h3 {
 .recept_container {
   padding:10px;
   background-color:#feecef;
+  border:solid 2px #f58e8e;
 }
 
+.recept-plaatje {
+  width: 200px;
+  background: #d09090;
+  border:solid 2px #f8aaaa;
+  transition: width 2s;
+}
 
+.recept-plaatje:hover {
+  width: 250px;
+}
